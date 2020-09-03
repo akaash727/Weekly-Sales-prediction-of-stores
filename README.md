@@ -10,3 +10,6 @@ The training data consist of 421,570 records:
 ● Store_data-set.csv: type and size of the stores
 
 ● Features_dataset.csv: additional data related to the stores and regions
+
+
+Using linear regression and Random Forest Regressor 
